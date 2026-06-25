@@ -52,8 +52,8 @@ public class Main {
 		};
 
 		public static String[] vetDescricaoMarca = {
-		    "BMW", "VOLKSWAGEN", "FIAT", "MERCEDES", "CHEVROLET",
-		    "FERRARI", "AUDI", "TOYOTA", "HONDA", "HYUNDAI"
+		    "BMW", "VOLKSWAGEN", "FORD", "MERCEDES", "CHEVROLET",
+		    "FIAT", "AUDI", "TOYOTA", "HONDA", "HYUNDAI"
 		};
 
 }
